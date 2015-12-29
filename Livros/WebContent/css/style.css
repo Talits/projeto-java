@@ -1,0 +1,24 @@
+.borda {
+    border-width:thin;
+    border-radius:30px;
+    border-style:groove;
+    border-color: #C0C0C0;
+    
+   
+}
+
+h4{
+    text-align:center;
+    text-indent:5%;
+    
+}
+
+
+.footer{
+
+bottom: 0px;
+height: 30px;
+background-color:#EEE9E9;
+    
+    
+}
